@@ -1,13 +1,17 @@
 ---
-tags:
-  - navigation
+tags: []
 share: true
 ---
 
 # Home
 
-[Tasks](Tasks.md)
-[Notes](Periodic%20Notes.md)
-[Projects](Projects.md)
+[Database](Database.md)
 
-[Guides](Guides.md)
+[Tasks](Tasks.md)
+[Projects](Notes/Projects/Projects.md)
+[Courses](Notes/Courses/Courses.md)
+[People](Notes/People/People.md)
+
+[Notes](Notes%20Periodic/Periodic%20Notes.md)
+[Recipes](Notes/Family/Recipes/Recipes.md)
+[Guides](Configs/Guides/Guides.md)
