@@ -32,6 +32,9 @@ theme:
         icon: material/lightbulb
         name: Switch to light mode
     features:
+        - navigation.instant
+        - navigation.instant.progress
+        - navigation.tracking
         - navigation.indexes
         - navigation.top
         - navigation.tabs
@@ -96,7 +99,7 @@ plugins:
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
   - tags:
-      tags_file: tags.md
+      # tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'
