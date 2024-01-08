@@ -23,6 +23,7 @@ columns:
     position: 0
     isHidden: false
     sortIndex: -1
+    width: 95
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -35,7 +36,7 @@ columns:
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: true
+  sticky_first_column: false
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
