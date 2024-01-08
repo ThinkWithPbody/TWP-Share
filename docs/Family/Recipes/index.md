@@ -71,8 +71,9 @@ columns:
       - { label: "炸", value: "炸", color: "hsl(50,96%,90%)"}
       - { label: "拌", value: "拌", color: "hsl(165,96%,90%)"}
       - { label: "炒", value: "炒", color: "hsl(18, 95%, 90%)"}
-      - { label: "炖", value: "炖", color: "hsl(214,96%,90%)"}
+      - { label: "炖", value: "炖", color: "hsl(200,96%,90%)"}
       - { label: "蒸", value: "蒸", color: "hsl(271,96%,90%)"}
+      - { label: "煮", value: "煮", color: "hsl(225,96%,90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
