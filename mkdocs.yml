@@ -99,6 +99,8 @@ plugins:
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
   - tags:
+      tags: false
+      tags_hierarchy: true
       # tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
