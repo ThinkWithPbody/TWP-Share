@@ -32,8 +32,8 @@ theme:
         icon: material/lightbulb
         name: Switch to light mode
     features:
-        - navigation.instant
-        - navigation.instant.progress
+        # - navigation.instant
+        # - navigation.instant.progress
         - navigation.tracking
         - navigation.indexes
         - navigation.top
