@@ -88,9 +88,9 @@ columns:
     position: 4
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
     width: 128
-    isSorted: false
+    isSorted: true
     isSortedDesc: false
     config:
       enable_media_view: true
