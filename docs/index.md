@@ -13,6 +13,6 @@ share: true
 [Courses](Notes/Courses/Courses.md)
 [People](Notes/People/People.md)
 
-[Notes](Notes%20Periodic/Periodic%20Notes.md)
+[Notes](Periodic%20Notes/Periodic%20Notes.md)
 [Recipes](Notes/Family/Recipes/Recipes.md)
 [Guides](Configs/Guides/Guides.md)
