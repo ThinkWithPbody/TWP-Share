@@ -15,7 +15,7 @@ if (existing) {
 }
 _%>
 [<% createdFileDisplay %>](%3C%25%20createdFileDisplay%20%25%3E.md)
-
+<% tp.file.cursor() %>
 
 ## Date
 
