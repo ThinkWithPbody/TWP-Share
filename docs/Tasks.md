@@ -4,6 +4,7 @@ tags:
 share: true
 ---
 
+
 ## Due
 ```tasks
 not done
@@ -32,7 +33,6 @@ group by scheduled
 (scheduled on or before today) OR (no scheduled date)
 ```
 ## Projects
-| File                                     | Due |
-| ---------------------------------------- | --- |
-| [Projects](Notes/Projects/Projects.md.md) | \-  |
+| File | Due |
+| ---- | --- |
 
