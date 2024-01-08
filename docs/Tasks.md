@@ -30,7 +30,7 @@ description regex does not match /^$/
 NOT (path includes Templater)
 
 group by scheduled
-(scheduled on or before today) OR (no scheduled date)
+(scheduled on or before today) OR ((no scheduled date) AND (no due date))
 ```
 ## Projects
 | File | Due |

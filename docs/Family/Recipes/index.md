@@ -83,26 +83,6 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  recipe_instruction:
-    input: text
-    accessorKey: recipe_instruction
-    key: recipe_instruction
-    id: recipe_instruction
-    label: Instruction
-    position: 5
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 670
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   share:
     input: checkbox
     accessorKey: share
@@ -114,6 +94,26 @@ columns:
     isHidden: false
     sortIndex: -1
     width: 41
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  recipe_detail:
+    input: text
+    accessorKey: recipe_detail
+    key: recipe_detail
+    id: recipe_instruction
+    label: Detail
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 670
     config:
       enable_media_view: true
       link_alias_enabled: true

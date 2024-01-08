@@ -6,13 +6,9 @@ share: true
 
 # Home
 
-[Database](Database.md)
-
 [Tasks](Tasks.md)
-[Projects](Notes/Projects/Projects.md)
-[Courses](Notes/Courses/Courses.md)
-[People](Notes/People/People.md)
+[Projects](Projects/Projects.md)
+[Courses](Courses/Courses.md)
 
-[Notes](Periodic%20Notes/Periodic%20Notes.md)
-[Recipes](Notes/Family/Recipes/Recipes.md)
+[Recipes](Family/Recipes/Recipes.md)
 [Guides](Configs/Guides/Guides.md)

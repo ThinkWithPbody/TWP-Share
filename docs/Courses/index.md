@@ -24,6 +24,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
+    width: 217
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -33,6 +34,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      wrap_content: true
   year:
     input: number
     accessorKey: year
@@ -88,12 +90,14 @@ columns:
     isHidden: false
     sortIndex: -1
     width: 128
+    isSorted: false
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: true
+      isInline: false
       task_hide_completed: true
       footer_type: none
       persist_changes: false
@@ -107,6 +111,9 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
+      - { label: "TBA", value: "TBA", color: "hsl(320, 95%, 90%)"}
+      - { label: "DA 200", value: "DA 200", color: "hsl(58, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -119,7 +126,7 @@ columns:
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: true
+  sticky_first_column: false
   group_folder_column: 
   remove_empty_folders: true
   automatically_group_files: false
@@ -149,4 +156,17 @@ config:
 filters:
   enabled: false
   conditions:
+      - condition: AND
+        disabled: false
+        label: "2024 Winter"
+        color: "hsl(248, 95%, 90%)"
+        filters:
+        - field: year
+          operator: CONTAINS
+          value: "2024"
+          type: number
+      - field: quarter
+        operator: EQUAL
+        value: "1"
+        type: select
 ```
