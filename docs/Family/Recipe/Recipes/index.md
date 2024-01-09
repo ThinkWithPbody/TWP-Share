@@ -34,56 +34,52 @@ columns:
       footer_type: none
       persist_changes: false
   recipe_meal:
-    input: select
+    input: relation
     accessorKey: recipe_meal
     key: recipe_meal
     id: recipe_meal
     label: Meal
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Snack", value: "Snack", color: "hsl(107,96%,90%)"}
-      - { label: "Dinner", value: "Dinner", color: "hsl(0,96%,90%)"}
-      - { label: "Dessert", value: "Dessert", color: "hsl(276,96%,90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: true
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
-  recipe_type:
-    input: select
-    accessorKey: recipe_type
-    key: recipe_type
-    id: recipe_type
-    label: Type
     position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
-      - { label: "炸", value: "炸", color: "hsl(50,96%,90%)"}
-      - { label: "拌", value: "拌", color: "hsl(165,96%,90%)"}
-      - { label: "炒", value: "炒", color: "hsl(18, 95%, 90%)"}
-      - { label: "炖", value: "炖", color: "hsl(200,96%,90%)"}
-      - { label: "蒸", value: "蒸", color: "hsl(271,96%,90%)"}
-      - { label: "煮", value: "煮", color: "hsl(225,96%,90%)"}
+    isSorted: false
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: true
+      isInline: false
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
+      related_note_path: Family/Recipe/Recipe Meals/Recipe Meals.md
+      relation_color: hsl(0,0%,0%)
+  recipe_type:
+    input: relation
+    accessorKey: recipe_type
+    key: recipe_type
+    id: recipe_type
+    label: Type
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    isSorted: false
+    isSortedDesc: false
+    width: 156
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: Family/Recipe/Recipe Types/Recipe Types.md
+      relation_color: hsl(0,0%,0%)
   share:
     input: checkbox
     accessorKey: share
@@ -100,7 +96,7 @@ columns:
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: true
+      isInline: false
       task_hide_completed: true
       footer_type: none
       persist_changes: false
@@ -128,7 +124,7 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: true
-  group_folder_column: recipe_type
+  group_folder_column: 
   remove_empty_folders: true
   automatically_group_files: true
   hoist_files_with_empty_attributes: true
@@ -138,9 +134,9 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   show_metadata_tags: false
-  source_data: current_folder
-  source_form_result: 
-  source_destination_path: /
+  source_data: query
+  source_form_result: "from \"Family/Recipe/Recipes\""
+  source_destination_path: Family/Recipe/Recipes
   row_templates_folder: /
   current_row_template: 
   pagination_size: 20
