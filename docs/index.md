@@ -6,9 +6,9 @@ share: true
 
 # Home
 
-[Tasks](Tasks.md)
-[Projects](Projects/Projects.md)
-[Courses](Courses/Courses.md)
+[Tasks](./Tasks.md)
+[Projects](./Projects/index.md)
+[Courses](./Courses/index.md)
 
-[Recipes](Family/Recipes/Recipes.md)
-[Guides](Configs/Guides/Guides.md)
+[Recipes](./Family/Recipe/Recipes/index.md)
+[Guides](./Configs/Guides/index.md)
