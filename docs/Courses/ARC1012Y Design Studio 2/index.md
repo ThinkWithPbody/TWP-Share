@@ -24,7 +24,7 @@ title:: Design Studio 2
 ### Module 1
 #### Attitude towards land _the dualistic view_
 Ian L Mcharg
-Landscape urbanism
+Landscape Urbanism
 GIS, overlays
 
 #### [[Brian Boigon|Brian Boigon]]
