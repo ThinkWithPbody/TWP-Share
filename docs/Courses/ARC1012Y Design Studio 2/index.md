@@ -15,7 +15,7 @@ share: true
 code:: ARC1012Y
 title:: Design Studio 2
 
-![[./Attachments/ARC1012_Design Studio 2_Syllabus 2024.pdf|ARC1012_Design Studio 2_Syllabus 2024]]
+[ARC1012_Design Studio 2_Syllabus 2024.pdf](file:///D:%5COneDrive%20-%20University%20of%20Toronto%5C_twp%5CDocument%5CScholar%5CUTOR%5C2024-01%5CARC1012Y%5CARC1012_Design%20Studio%202_Syllabus%202024.pdf)
 
 - [ ] Required readings
 
