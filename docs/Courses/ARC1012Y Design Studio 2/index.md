@@ -4,7 +4,7 @@ tags:
 year: 2024
 quarter: 1
 people:
-  - "[[Brian Boigon|Brian Boigon]]"
+  - "[Brian Boigon](Brian%20Boigon.md)"
 location: 
 time: 2 09:00
 share: true
@@ -27,7 +27,7 @@ Ian L Mcharg
 Landscape Urbanism
 GIS, overlays
 
-#### [[Brian Boigon|Brian Boigon]]
+#### [Brian Boigon](Brian%20Boigon.md)
 [Elsewhere](https://www.elsewhereishere.com)
 VAST London
 VR Spatial.io
@@ -56,10 +56,10 @@ VR Spatial.io
 
 ## Projects
 
-### [[../../Projects/2024/Design Studio 2 - Project 1/index|Project 1]]
+### [Project 1](../../Projects/Design%20Studio%202%20-%20Project%201.md)
 
-### [[Projects/Design Studio 2 - Project 2|Project 2]]
+### [Project 2](Projects/Design%20Studio%202%20-%20Project%202.md)
 
-### [[Projects/Design Studio 2 - Project 3|Project 3]]
+### [Project 3](Projects/Design%20Studio%202%20-%20Project%203.md)
 
-### [[Projects/Design Studio 2 - Project 4|Project 4]]
+### [Project 4](Projects/Design%20Studio%202%20-%20Project%204.md)

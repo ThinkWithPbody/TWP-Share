@@ -1,17 +1,15 @@
 ---
 tags:
   - project
-status:
-  - Todo
-priority:
-  - ""
+status: todo
+priority: medium
 due: 
 completion: 
 share: true
 kanban-plugin: basic
 ---
 
-
+parent:: [ARC1012Y Design Studio 2](../Courses/ARC1012Y%20Design%20Studio%202/index.md)
 ## Project Brief
 
 [ARC1012_Studio Project 1-The Artifact and the Room.pdf](file:///D:%5COneDrive%20-%20University%20of%20Toronto%5C_twp%5CDocument%5CScholar%5CUTOR%5C2024-01%5CARC1012Y%5CAssignments%5CA1%5CARC1012_Studio%20Project%201-The%20Artifact%20and%20the%20Room.pdf)
@@ -29,7 +27,7 @@ For example Bernard Shaw's **Writer’s cabin**
 A cabin that rotated
 Pick an idea someone else did as a precedent 
 
-[[Lina Bo Bardi|Lina Bo Bardi]]
+[Lina Bo Bardi](Lina%20Bo%20Bardi.md)
 Coffee table third year
 
 - [ ] A brief presentation of research findings  [due:: 2024-01-12]
