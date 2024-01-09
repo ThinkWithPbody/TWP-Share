@@ -56,7 +56,7 @@ VR Spatial.io
 
 ## Projects
 
-### [Project 1](../../Projects/Design%20Studio%202%20-%20Project%201.md)
+### [Project 1](../../Projects/2024/Design%20Studio%202%20-%20Project%201/index.md)
 
 ### [Project 2](Projects/Design%20Studio%202%20-%20Project%202.md)
 
