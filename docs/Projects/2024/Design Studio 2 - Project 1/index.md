@@ -14,7 +14,7 @@ kanban-plugin: basic
 
 ## Project Brief
 
-![[./Attachments/ARC1012_Studio Project 1-The Artifact and the Room.pdf|ARC1012_Studio Project 1-The Artifact and the Room]]
+[ARC1012_Studio Project 1-The Artifact and the Room.pdf](file:///D:%5COneDrive%20-%20University%20of%20Toronto%5C_twp%5CDocument%5CScholar%5CUTOR%5C2024-01%5CARC1012Y%5CAssignments%5CA1%5CARC1012_Studio%20Project%201-The%20Artifact%20and%20the%20Room.pdf)
 
 The room is a collecting institution
 
