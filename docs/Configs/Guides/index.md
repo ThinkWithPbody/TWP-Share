@@ -6,9 +6,9 @@ share: true
 ---
 
 
-- [Guide Dataview](Configs/Guides/Guide%20Dataview.md.md)
-- [Guide Obsidian Markdown](Configs/Guides/Guide%20Obsidian%20Markdown.md.md)
-- [Guide Publisher](Configs/Guides/Guide%20Publisher.md.md)
-- [Guide Tasks](Configs/Guides/Guide%20Tasks.md.md)
-- [Guide Templater](Configs/Guides/Guide%20Templater.md.md)
+- [Guide Dataview](./Guide%20Dataview.md)
+- [Guide Obsidian](./Guide%20Obsidian.md)
+- [Guide Publisher](Guide%20Publisher.md)
+- [Guide Tasks](./Guide%20Tasks.md)
+- [Guide Templater](./Guide%20Templater.md)
 
