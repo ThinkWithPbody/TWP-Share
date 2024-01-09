@@ -4,7 +4,7 @@ tags:
 year: 2024
 quarter: 1
 people:
-  - "[Brian Boigon](People/UTOR/Brian%20Boigon.md)"
+  - "[[Brian Boigon|Brian Boigon]]"
 location: 
 time: 2 09:00
 share: true
@@ -15,7 +15,7 @@ share: true
 code:: ARC1012Y
 title:: Design Studio 2
 
-![ARC1012_Design Studio 2_Syllabus 2024](./Attachments/ARC1012_Design%20Studio%202_Syllabus%202024.pdf)
+![[./Attachments/ARC1012_Design Studio 2_Syllabus 2024.pdf|ARC1012_Design Studio 2_Syllabus 2024]]
 
 - [ ] Required readings
 
@@ -27,7 +27,7 @@ Ian L Mcharg
 Landscape urbanism
 GIS, overlays
 
-#### [Brian ](People/UTOR/Brian.md)
+#### [[Brian Boigon|Brian Boigon]]
 [Elsewhere](https://www.elsewhereishere.com)
 VAST London
 VR Spatial.io
@@ -56,10 +56,10 @@ VR Spatial.io
 
 ## Projects
 
-### [Project 1](../../Projects/2024/Design%20Studio%202%20-%20Project%201/index.md)
+### [[../../Projects/2024/Design Studio 2 - Project 1/index|Project 1]]
 
-### [Project 2](Projects/Design%20Studio%202%20-%20Project%202.md)
+### [[Projects/Design Studio 2 - Project 2|Project 2]]
 
-### [Project 3](Projects/Design%20Studio%202%20-%20Project%203.md)
+### [[Projects/Design Studio 2 - Project 3|Project 3]]
 
-### [Project 4](Projects/Design%20Studio%202%20-%20Project%204.md)
+### [[Projects/Design Studio 2 - Project 4|Project 4]]
