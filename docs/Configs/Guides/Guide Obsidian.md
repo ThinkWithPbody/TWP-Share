@@ -35,10 +35,10 @@ ___
 
 ## References
 
-Reference to a [File](Guide%20Obsidian.md)
-Reference to a [Heading](Guide%20Obsidian.md#heading-1)
-Reference to a [Paragraph](Guide%20Obsidian.md#3f6ad1)
-Inline Reference![Configs/Guides/Guide Obsidian > Styles](Guide%20Obsidian.md#styles)
+Reference to a [[Guide Obsidian|File]]
+Reference to a [[Guide Obsidian#Heading 1|Heading]]
+Reference to a [[Guide Obsidian#^3f6ad1|Paragraph]]
+Inline Reference![[Guide Obsidian#Styles|Configs/Guides/Guide Obsidian > Styles]]
 ## Shortcuts
 
 Ctrl + Alt + T = Modify Task
