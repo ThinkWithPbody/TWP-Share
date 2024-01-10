@@ -20,6 +20,7 @@ The room is a collecting institution
 - [ ] Poem researched or based on existing  [due:: 2024-01-12]
 5 minutes
 Could be one or two verse, but it has to be related to the artwork, you’re not the artist, put yourself between you and the artwork.
+![Design Studio 2 - Project 1 2024-01-09 19.03.06.excalidraw](Design%20Studio%202%20-%20Project%201%202024-01-09%2019.03.06.excalidraw.md)
 
 - [ ] Bring an object or image of to creatively represents the room to display  [due:: 2024-01-12]
 5 minutes
@@ -37,7 +38,7 @@ Coffee table third year
 ## Tasks
 
 - [ ] Design Studio 2 - Project 1  [due:: 2024-01-29]
-- [ ] Convert links to relative
+- [x] Convert links to relative  [completion:: 2024-01-09]
 - [ ] 
 
 
