@@ -9,7 +9,7 @@ share: true
 kanban-plugin: basic
 ---
 
-parent:: [ARC1012Y Design Studio 2](../../../Courses/ARC1012Y%20Design%20Studio%202/index.md)
+[parents:: [[../../../Courses/ARC1012Y Design Studio 2/index|ARC1012Y Design Studio 2]]]
 ## Project Brief
 
 [ARC1012_Studio Project 1-The Artifact and the Room.pdf](file:///D:%5COneDrive%20-%20University%20of%20Toronto%5C_twp%5CDocument%5CScholar%5CUTOR%5C2024-01%5CARC1012Y%5CAssignments%5CA1%5CARC1012_Studio%20Project%201-The%20Artifact%20and%20the%20Room.pdf)
@@ -20,7 +20,8 @@ The room is a collecting institution
 - [ ] Poem researched or based on existing  [due:: 2024-01-12]
 5 minutes
 Could be one or two verse, but it has to be related to the artwork, you’re not the artist, put yourself between you and the artwork.
-![Design Studio 2 - Project 1 2024-01-09 19.03.06.excalidraw](./Attachments/Design%20Studio%202%20-%20Project%201%202024-01-09%2019.03.06.excalidraw.svg)
+![[./Attachments/Design Studio 2 - Project 1 2024-01-09.excalidraw.png|Design Studio 2 - Project 1 2024-01-09.excalidraw]]
+%%[[Design Studio 2 - Project 1 2024-01-09.excalidraw|🖋 Edit in Excalidraw]]%%
 
 - [ ] Bring an object or image of to creatively represents the room to display  [due:: 2024-01-12]
 5 minutes
@@ -28,7 +29,7 @@ For example Bernard Shaw's **Writer’s cabin**
 A cabin that rotated
 Pick an idea someone else did as a precedent 
 
-[Lina Bo Bardi](Lina%20Bo%20Bardi.md)
+[[Lina Bo Bardi|Lina Bo Bardi]]
 Coffee table third year
 
 - [ ] A brief presentation of research findings  [due:: 2024-01-12]
