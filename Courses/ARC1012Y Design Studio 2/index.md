@@ -31,6 +31,8 @@ GIS, overlays
 [Elsewhere](https://www.elsewhereishere.com)
 VAST London
 VR Spatial.io
+
+Lecture by [[Rachelle Dickenson|Rachelle Dickenson]] **1087 in the Sidney Smith Building** 100 St. George Street, Toronto, Ontario, M5S 3G3
 ### Module 2
 
 ### Module 3

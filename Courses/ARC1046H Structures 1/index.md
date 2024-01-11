@@ -102,12 +102,14 @@ Flexibility is the amount that a structure will deflect or rotate under a fixed 
 Differential settlement
 
 **Vibration**
-Vibrations
+Continuous vibrations
 - 2.5 Hz
+
 Transient vibrations
 - Heel drop
 - Load is damped by mass of building and 
 - Limit the acceleration to 1% of gravity
+
 Amplified vibrations (resonance)
 
 

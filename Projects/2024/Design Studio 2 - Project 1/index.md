@@ -20,8 +20,8 @@ The room is a collecting institution
 - [ ] Poem researched or based on existing  [due:: 2024-01-12]
 5 minutes
 Could be one or two verse, but it has to be related to the artwork, you’re not the artist, put yourself between you and the artwork.
-![[./Attachments/Design Studio 2 - Project 1 2024-01-09.excalidraw.png|Design Studio 2 - Project 1 2024-01-09.excalidraw]]
-%%[[Design Studio 2 - Project 1 2024-01-09.excalidraw|🖋 Edit in Excalidraw]]%%
+![[../../../docs/Projects/2024/Design Studio 2 - Project 1/Attachments/Design Studio 2 - Project 1 2024-01-09.excalidraw.png|Design Studio 2 - Project 1 2024-01-09.excalidraw]]
+%%[[../../../docs/Projects/2024/Design Studio 2 - Project 1/Attachments/Design Studio 2 - Project 1 2024-01-09.svg|🖋 Edit in Excalidraw]]%%
 
 - [ ] Bring an object or image of to creatively represents the room to display  [due:: 2024-01-12]
 5 minutes

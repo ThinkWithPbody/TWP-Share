@@ -41,5 +41,7 @@ Reference to a [[Guide Obsidian#^3f6ad1|Paragraph]]
 Inline Reference![[Guide Obsidian#Styles|Configs/Guides/Guide Obsidian > Styles]]
 ## Shortcuts
 
+Alt + E = Toggle Source Mode
+Ctrl + Alt + A = Emoji Toolbar
 Ctrl + Alt + T = Modify Task
 Drag + Ctrl + Drop = Embed /  Transclude
