@@ -13,7 +13,7 @@ if (existing) {
   createdFileDisplay = (await tp.file.create_new(tp.file.find_tfile("template-name"), fileName)).basename;
 }
 _%>
-[[<% createdFileDisplay %>|<% createdFileDisplay %>]]
+[<% createdFileDisplay %>](%3C%25%20createdFileDisplay%20%25%3E.md)
 <% tp.file.cursor() %>
 
 ## Date
