@@ -34,10 +34,10 @@ ___
 
 ## References
 
-Reference to a [[./index|File]]
-Reference to a [[Guide Obsidian#Heading 1|Heading]]
-Reference to a [[2024-01-01#^025433|Paragraph]]
-Inline Reference![[Guide Obsidian#Styles|Configs/Guides/Guide Obsidian > Styles]]
+Reference to a [File](./index.md)
+Reference to a [Heading](Guide%20Obsidian.md#Heading%201)
+Reference to a [Paragraph](2024-01-01.md#^025433)
+Inline Reference![Configs/Guides/Guide Obsidian > Styles](Guide%20Obsidian.md#Styles)
 ## Shortcuts
 
 Ctrl = Enable Hover Preview On Links
