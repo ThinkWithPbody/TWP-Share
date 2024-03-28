@@ -4,8 +4,8 @@ tags:
 year: 2024
 quarter: "1"
 people:
-  - "[[People/Dave Bowick|People/Dave Bowick]]"
-  - "[[People/Shannon Hilchie|People/Shannon Hilchie]]"
+  - "[Dave Bowick](People/Dave%20Bowick.md)"
+  - "[Shannon Hilchie](People/Shannon%20Hilchie.md)"
 location: DA 200
 weekday: 3
 time: 09:00:00
@@ -26,11 +26,11 @@ share: true
 | Steel | Deck Corrugated Metal | d: **38**, 76mm | d = l / 50 |  |
 | Steel | Deck Concrete on Corrugated Metal | d: **38**, 76 mm + **64** mm | d = l / 20 | Concrete is usually normal density |
 | Steel | Joists Open Web Steel | d: n * **50** mm (2") | d = l / 16 |  |
-| Steel | Purlins | [[index#Standard Steel Sizes|Standard Steel Sizes]] | d = l / 25; b = d / 2-3 |  |
-| Steel | Beams | [[index#Standard Steel Sizes|Standard Steel Sizes]] | d = l / 20; b = d / 2-3 |  |
-| Steel | Girders | [[index#Standard Steel Sizes|Standard Steel Sizes]] | d = l / 15; b = d / 2-3 |  |
+| Steel | Purlins | [Standard Steel Sizes](index.md#Standard%20Steel%20Sizes) | d = l / 25; b = d / 2-3 |  |
+| Steel | Beams | [Standard Steel Sizes](index.md#Standard%20Steel%20Sizes) | d = l / 20; b = d / 2-3 |  |
+| Steel | Girders | [Standard Steel Sizes](index.md#Standard%20Steel%20Sizes) | d = l / 15; b = d / 2-3 |  |
 | Steel | Trusses | d: n * **50** mm | d = l / 12; b = d / 2-3 |  |
-| Steel | Columns | [[index#Standard Steel Sizes|Standard Steel Sizes]] | w = h / **20**-40 |  |
+| Steel | Columns | [Standard Steel Sizes](index.md#Standard%20Steel%20Sizes) | w = h / **20**-40 |  |
 | Wood | Deck Plywood | c/c: 12, **16**, 20, 24; Subfloors: 6.4, 9.5 mm (1/4, 3/8"); Walls: **12.7**, 15.9, 19.1, 22.2, 25.4 mm (**1/2**, 5/8, 3/4, 7/8, 1"); Roof: **12.7** mm (**1/2**"); Floors: **19.1** mm (**3/4**") |  | 4'x8' sheets |
 | Wood | Deck Tongue and Groove | d: **38**, 64, 89 mm | d = l / 40 | Standard size matches wood joists |
 | Wood | Joists Lumber | w: **38**, 89 mm; d: 89, 140, **184**, 235, 286 mm | d = l / 16 |  |
@@ -116,6 +116,30 @@ Example: HSS152x102
 
 
 
+## Bearing Capacity
+
+To achieve bearing capacity:
+- Soil must be undisturbed
+- No organic materials
+- Excavations cleaned by hand (if you have to pick it up by hand, it goes)
+
+Bearing Capacity must be greater than Bearing Pressure (Bf)
+Br > Bf
+Bf = Pf "Factored Loads" / A (m^2) "Area of Bearing"
+
+| Type and Condition of Soil or Rock | Maximum Allowable Bearing Pressure (kPa (kN / m^2)) |
+| ---- | ---- |
+| Dense or Compact Sand or Gravel | 150 |
+| Loose Sand or Gravel | 50 |
+| Dense or Compact Silt | 100 |
+| Stiff Clay | 150 |
+| Firm Clay | 75 |
+| Soft Clay | 40 |
+| Till | 200 |
+| Clay Shale | 300 |
+| Sound Rock | 500 |
+Typical slab on grade: Br > 24 kPa
+
 ## Modules
 
 ### Module 1
@@ -123,14 +147,12 @@ Example: HSS152x102
 [ARC1046 Lecture 01 Strength, Stiffness, Stability.pptx](file:///D:%5COneDrive%20-%20University%20of%20Toronto%5C_twp%5CDocument%5CScholar%5CUTOR%5C2024-01%5CARC1046H%5CLecture%20Slides%5CARC1046%20Lecture%2001%20Strength,%20Stiffness,%20Stability.pptx)
 [Videos](https://www.archdaily.com/797373/these-videos-will-help-you-pass-your-are-structural-exam)
 
-Safe, stable building that is the cheapest possible, while meeting constraints, needs, demands, [[NBCC|NBCC]]
+Safe, stable building that is the cheapest possible, while meeting constraints, needs, demands, [NBCC](Wiki/NBCC/NBCC.md)
 Engineers working iteratively with Architects
 
 - [ ] Buy reading: Science Builders Structural Engineering
 
-Structural engineering considers [[index#Strength|Strength]], [[index#Structure|Structure]], [[index#Stiffness|Stiffness]], [[index#Stability|Stability]].
-
-
+Structural engineering considers [Strength](index.md#Strength), [Structure](index.md#Structure), [Stiffness](index.md#Stiffness), [Stability](index.md#Stability).
 
 #### Structure
 #### Strength
@@ -239,7 +261,7 @@ The state of being stable, or the opposite of in-stable. Instability can be elas
 
 ### Module 2
 
-![[./Attachments/Assignment 02-6.jpg|Assignment 02-6]]
+![Assignment 02-6](./Attachments/Assignment%2002-6.jpg)
 
 Structural drawing
 one should be able to build the entire structure from structural drawings
@@ -281,7 +303,7 @@ Steel and concrete building:
 			- Left
 		- Geo datum as cardinal, others as ordinal
 	- Put the grids in the most convenient place to offset from foundations
-	- ![[./Attachments/ARC1046H Structures 1 2024-01-17.excalidraw.png|ARC1046H Structures 1 2024-01-17.excalidraw]]%%[[./Attachments/ARC1046H Structures 1 2024-01-17.svg|🖋 Edit in Excalidraw]]%%
+	- ![ARC1046H Structures 1 2024-01-17.excalidraw](./Attachments/ARC1046H%20Structures%201%202024-01-17.excalidraw.png.md)%%[🖋 Edit in Excalidraw](./Attachments/ARC1046H%20Structures%201%202024-01-17.svg)%%
 	- Only describe the extent when it’s not obvious
 	- Describe top of steel / beam everywhere (sometimes indicated on schedule)
 		- sometimes, indicate under side of deck, and top of steel is at underside of deck unless noted
@@ -365,8 +387,8 @@ Alternative Construction Techniques (Glass, Fabric, Straw Bale, Rammed Earth)
 	- Multiple storey column lifts (steel)
 	- Minimize transfers
 - Cold and hot rolled steel
-	- ![[./Attachments/ARC1046H Structures 1 2024-01-24.excalidraw.png|ARC1046H Structures 1 2024-01-24.excalidraw]]
-	- %%[[./Attachments/ARC1046H Structures 1 2024-01-24.svg|🖋 Edit in Excalidraw]]%%
+	- ![ARC1046H Structures 1 2024-01-24.excalidraw](./Attachments/ARC1046H%20Structures%201%202024-01-24.excalidraw.png.md)
+	- %%[🖋 Edit in Excalidraw](./Attachments/ARC1046H%20Structures%201%202024-01-24.svg)%%
 	- Flange thickness and web thickness not necessarily same width, not working as hard as flange
 
 Steel construction
@@ -416,15 +438,105 @@ Transfer: load taken to the nearest possible columns
 
 ### Module 4
 
+- [x] Share answer with Tim  [due:: 2024-02-06]  [completion:: 2024-02-07]
+
 ### Module 5
 
+Footing Thickness = MAX(Footing Projection, 200mm)
+
+Caisson and Belled Caisson in Edminton
 ### Module 6
+
+**Types of Loads**
+- D = Dead Load - Permanent
+- L = Live Load - Variable
+- S = Snow Load - Variable
+- W = Wind Load - Variable
+- E = Earthquake Load - Rare
+- T = Temperature, shrinkage, moisture, settlement, or combination
+- H = Lateral Soil Loads (including ground water) - Permanent
+- P = Prestress - Permanent
+
+**Assembly**
+4.8 kPa
+2.4 kPa Fixed Seat or Restaurants < 100 m^2
+
+**Non-Assembly Area**
+4.8 kPa Ground Floor
+2.4 kPa Remaining Floors
+
+**Residential Live Loads**
+1.9 kPa
+
+**Vehicles**
+2.4 kPa Parking Garages (Cars)
+6.0 kPa Parking Garages (Buses, Light Trucks)
+12.0 kPa Parking Garages (Trucks)
+12.0 kPa Driveways and Sidewalk Areaways and Basements
+
+**Live Load Reduction Factor LLRF**
+Non-Assembly Areas, Load == Any other than Assembly, Tributary Area > 20 m^2:
+0.3 + ROOT(9.8 / A)
+Assembly Areas OR Loads >= 4.8 kPa, Tributary Area > 80 m^2:
+0.5 + ROOT(20 / A)
 
 ### Module 7
 
+Earth Pressure at level h p (kPa)= Earth Pressure Coefficient k (0.25) * Surcharge q (4.8 or 12 kPa) + k * Weight of the Soil y (20 kN/m^3) * Depth Below Grade h (m)
+
+Vibration resonance and amplification
+
+Limit state design
+ULS: Ultimate Limit State
+SLS: Serviceability Limit State
+
+ULS: Strength
+![2024-03-05T15_12_48-05_00_TWP-X570-WIN10(vlc)](./Attachments/2024-03-05T15_12_48-05_00_TWP-X570-WIN10(vlc).jpg)
+
+SLS: Serviceability
+Stiffness, Deflection
+
+Use SLS Snow Load Importance Factor
+![2024-03-05T16_07_18-05_00_TWP-X570-WIN10(vlc)](./Attachments/2024-03-05T16_07_18-05_00_TWP-X570-WIN10(vlc).jpg)
+
 ### Module 8
 
+Static: Not moving
+
+| Title | Here | What |
+| ---- | ---- | ---- |
+| -4.4588 | 4.0147 |  |
+| 1.6126 | 4.2011 |  |
+| 8.8082 | 3.5587 |  |
+|  |  |  |
+| 5.962 | 11.7745 |  |
+|  |  |  |
+
+
+
+
 ### Module 9
+
+6 Degrees of Freedom: 
+- Translation XYZ
+- Rotation XYZ
+
+Sum of Forces for each 2D Plane:
+- Fx Translation Horizontal
+- Fy Translation Vertical
+- M Rotation
+
+Connections:
+- Pin
+- Roller
+- Moment
+- Any combination of above 3
+
+UDL: Uniform Distributed Load
+
+Teeter-Totter
+
+M1 = P1 * e1 = 0.65 kN * 0.8 m = 0.52 kNm
 
 ### Module 10
 
@@ -435,10 +547,14 @@ Transfer: load taken to the nearest possible columns
 
 ## Projects
 
-### [[Projects/Structures 1 - Project 1/Structures 1 - Project 1|Project 1]]
+### [Project 1](Projects/Structures%201%20-%20Project%201/Structures%201%20-%20Project%201.md)
 
-### [[Projects/Structures 1 - Project 2/Structures 1 - Project 2|Project 2]]
+- [ ] [ARC1046 Project Description.pdf](file:///D:%5COneDrive%20-%20University%20of%20Toronto%5C_twp%5CDocument%5CScholar%5CUTOR%5C2024-01%5CARC1046H%5CAssignments%5CARC1046%20Project%20Description.pdf)  [due:: 2024-04-30]
+[ARC1046 Project Drawings.pdf](file:///D:%5COneDrive%20-%20University%20of%20Toronto%5C_twp%5CDocument%5CScholar%5CUTOR%5C2024-01%5CARC1046H%5CAssignments%5CARC1046%20Project%20Drawings.pdf)
+[ARC1046 Project Part 01 Quick Example.pdf](file:///D:%5COneDrive%20-%20University%20of%20Toronto%5C_twp%5CDocument%5CScholar%5CUTOR%5C2024-01%5CARC1046H%5CAssignments%5CARC1046%20Project%20Part%2001%20Quick%20Example.pdf)
 
-### [[Projects/Structures 1 - Project 3|Project 3]]
+### [Project 2](Projects/Structures%201%20-%20Project%202/Structures%201%20-%20Project%202.md)
 
-### [[Projects/Structures 1 - Project 4|Project 4]]
+### [Project 3](Projects/Structures%201%20-%20Project%203.md)
+
+### [Project 4](Projects/Structures%201%20-%20Project%204.md)
