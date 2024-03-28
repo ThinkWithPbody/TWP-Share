@@ -6,9 +6,9 @@ parents: "[[index]]"
 share: true
 ---
 
-- [[./Guide Dataview|Guide Dataview]]
-- [[./Guide Obsidian|Guide Obsidian]]
-- [[Guide Publisher|Guide Publisher]]
-- [[./Guide Tasks|Guide Tasks]]
-- [[./Guide Templater|Guide Templater]]
+- [Guide Dataview](./Guide%20Dataview.md)
+- [Guide Obsidian](./Guide%20Obsidian.md)
+- [Guide Publisher](Guide%20Publisher.md)
+- [Guide Tasks](./Guide%20Tasks.md)
+- [Guide Templater](./Guide%20Templater.md)
 
