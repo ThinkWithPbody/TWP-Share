@@ -4,7 +4,7 @@ tags:
 year: 2024
 quarter: "1"
 people:
-  - "[[Brian Boigon|Brian Boigon]]"
+  - "[Brian Boigon](Brian%20Boigon.md)"
 location: 
 time: 2 09:00
 share: true
@@ -26,23 +26,29 @@ Ian L Mcharg
 Landscape Urbanism
 GIS, overlays
 
-#### [[Brian Boigon|Brian Boigon]]
+#### [Brian Boigon](Brian%20Boigon.md)
 [Elsewhere](https://www.elsewhereishere.com)
 VAST London
 VR Spatial.io
 
-Lecture by [[Rachelle Dickenson|Rachelle Dickenson]] **1087 in the Sidney Smith Building** 100 St. George Street, Toronto, Ontario, M5S 3G3
+Lecture by [Rachelle Dickenson](Rachelle%20Dickenson.md) **1087 in the Sidney Smith Building** 100 St. George Street, Toronto, Ontario, M5S 3G3
 ### Module 2
 
-[[2024-01-16#Accepted Speaking our Truths, The Journey Towards Reconciliation Part I&II by People/John Croutch John Croutch|Talk by John Croutch]]
-
-### Module 3
-
-### Module 4
-
-### Module 5
+[Talk by John Croutch](2024-01-16.md#Accepted%20Speaking%20our%20Truths,%20The%20Journey%20Towards%20Reconciliation%20Part%20I&II%20by%20People/John%20Croutch%20John%20Croutch)
 
 ### Module 6
+
+Clovy : place position stand
+straight lines are also part of nature
+Nobody’s land vs everybody’s land
+One monarch, crown
+
+Architecture of machine… architecture of landscape
+Indian memento: skip first 8 minutes
+
+Edward Said, culture and imperialism
+Counter mapping documentary
+
 
 ### Module 7
 
@@ -52,6 +58,22 @@ Lecture by [[Rachelle Dickenson|Rachelle Dickenson]] **1087 in the Sidney Smith 
 
 ### Module 10
 
+Delirious Newyork
+
+Transmission transmittance
+
+Assignment 1? Special quality
+
+Curate show
+
+Model needs to be flush, CNC MDF
+
+
+Drawings levels site and ground and floors and sections
+
+
+
+
 ### Module 11
 
 ### Module 12
@@ -59,10 +81,10 @@ Lecture by [[Rachelle Dickenson|Rachelle Dickenson]] **1087 in the Sidney Smith 
 
 ## Projects
 
-### [[../../Projects/2024/Design Studio 2 - Project 1/index|Project 1]]
+### [Project 1](../../Projects/2024/Design%20Studio%202%20-%20Project%201/index.md)
 
-### [[Design Studio 2 - Project 2|Project 2]]
+### [Project 2](Design%20Studio%202%20-%20Project%202.md)
 
-### [[Projects/Design Studio 2 - Project 3|Project 3]]
+### [Project 3](Projects/Design%20Studio%202%20-%20Project%203.md)
 
-### [[Projects/Design Studio 2 - Project 4|Project 4]]
+### [Project 4](Projects/Design%20Studio%202%20-%20Project%204.md)
