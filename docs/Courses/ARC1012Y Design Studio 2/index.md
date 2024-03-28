@@ -36,13 +36,19 @@ Lecture by [[Rachelle Dickenson|Rachelle Dickenson]] **1087 in the Sidney Smith 
 
 [[2024-01-16#Accepted Speaking our Truths, The Journey Towards Reconciliation Part I&II by People/John Croutch John Croutch|Talk by John Croutch]]
 
-### Module 3
-
-### Module 4
-
-### Module 5
-
 ### Module 6
+
+Clovy : place position stand
+straight lines are also part of nature
+Nobody’s land vs everybody’s land
+One monarch, crown
+
+Architecture of machine… architecture of landscape
+Indian memento: skip first 8 minutes
+
+Edward Said, culture and imperialism
+Counter mapping documentary
+
 
 ### Module 7
 
@@ -51,6 +57,22 @@ Lecture by [[Rachelle Dickenson|Rachelle Dickenson]] **1087 in the Sidney Smith 
 ### Module 9
 
 ### Module 10
+
+Delirious Newyork
+
+Transmission transmittance
+
+Assignment 1? Special quality
+
+Curate show
+
+Model needs to be flush, CNC MDF
+
+
+Drawings levels site and ground and floors and sections
+
+
+
 
 ### Module 11
 
