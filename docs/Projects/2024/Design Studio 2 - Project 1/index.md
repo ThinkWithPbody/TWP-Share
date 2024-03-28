@@ -51,13 +51,13 @@ Coffee table third year
 
 ### Material Exploration
 
-- [ ] Copper test
-- [ ] Crush glass test
-- [ ] black tar water, obsidian, ceiling?
-- [ ] Fog, mist, encaustic lighting, dry ice
-- [ ] One way two way mirror
-- [ ] Concrete blobks, translucent marble
-- [ ] Removable walls, two versions for photographs
+- [x] Copper test  [completion:: 2024-02-07]
+- [x] Crush glass test  [completion:: 2024-02-07]
+- [x] black tar water, obsidian, ceiling?  [completion:: 2024-02-07]
+- [x] Fog, mist, encaustic lighting, dry ice  [completion:: 2024-02-07]
+- [x] One way two way mirror  [completion:: 2024-02-07]
+- [x] Concrete blobks, translucent marble  [completion:: 2024-02-07]
+- [x] Removable walls, two versions for photographs  [completion:: 2024-02-07]
 
 ## Readings
 
